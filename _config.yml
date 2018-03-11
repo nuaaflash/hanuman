@@ -1,6 +1,8 @@
 # Site settings
-title: Hanuman
-description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
+encoding: utf-8
+title: Nuaaflash南航闪电侠
+description: Nuaaflash is a noob of IT studying in nuaa.
+             一个在南航上学的IT新手。
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
@@ -42,7 +44,7 @@ username: samanyougarg #github username
 repo: hanuman #github repository
 branch: master #branch
 relative_source: ../hanuman/ #source directory
-destination: ../hanuman-pages/ #destination directory
+destination: ../nuaaflash.github.io/ #destination directory
 production_url:  https://samanyougarg.com/
 source_url:  https://github.com/samanyougarg/hanuman #source repository url
 
