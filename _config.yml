@@ -1,5 +1,5 @@
-# Site settings
 encoding: utf-8
+# Site settings
 title: Nuaaflash南航闪电侠
 description: Nuaaflash is a noob of IT studying in nuaa.
              一个在南航上学的IT新手。
@@ -11,9 +11,7 @@ url: "https://samanyougarg.com" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
-facebook: facebook
-twitter: twitter
-github:  github
+github:  nuaaflash
 
 #Additional Pages
 about: about
@@ -44,7 +42,7 @@ username: samanyougarg #github username
 repo: hanuman #github repository
 branch: master #branch
 relative_source: ../hanuman/ #source directory
-destination: ../nuaaflash.github.io/ #destination directory
+destination: ../hanuman-pages/ #destination directory
 production_url:  https://samanyougarg.com/
 source_url:  https://github.com/samanyougarg/hanuman #source repository url
 
