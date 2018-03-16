@@ -1,22 +1,14 @@
 ---
-author: nuaaflash
 comments: true
-date: 2015-04-28 17:42:32+00:00
+date: 2018-03-09 17:42:32+00:00
 layout: post
-title: PHP, Angular JS Development|My Export Quote|重新入门Android开发
+title: 重新入门Android开发
 categories:
 - Works
 - Tech
-tags:
-- bootstrap
-- javascript
-- php
-- AngularJS
+tags: android
+author: 夏涵
 ---
-
-# 重新入门Android开发
-
-2018/3/9
 
 根据[Android官方培训课程中文版(v0.9.7)](http://hukai.me/android-training-course-in-chinese/index.html)的引导系统学习入门Android开发。
 
